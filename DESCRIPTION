@@ -1,0 +1,31 @@
+Package: AFRP
+Title: Analysis of RNA-Seq and Single-Cell Data for ALS and FTLD
+Version: 0.1.0
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Author: ruitanwang
+Maintainer: ruitanwang <1005938189@qq.com>
+Description: Provides tools for processing, analyzing, and visualizing
+    transcriptomic and single-cell RNA sequencing data focused on ALS and
+    FTLD. Includes functions for differential expression, cell clustering,
+    visualization, enrichment analysis and so on.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    DescTools (>= 0.99.60),
+    dplyr (>= 1.1.4),
+    forcats (>= 1.0.1),
+    ggalluvial (>= 0.12.5),
+    ggplot2 (>= 4.0.1),
+    lubridate (>= 1.9.4),
+    purrr (>= 1.2.0),
+    readr (>= 2.1.6),
+    rlang (>= 1.1.6),
+    Seurat (>= 5.4.0),
+    shadowtext (>= 0.1.6),
+    stringr (>= 1.6.0),
+    tibble (>= 3.3.0),
+    tidyr (>= 1.3.2)
