@@ -8,3 +8,4 @@
 
 ### 主要函数均已在函数头上方进行了标注
 
+![model](model_design.png)
