@@ -8,4 +8,12 @@
 
 ### 主要函数均已在函数头上方进行了标注
 
+## 工作流程图
+![workflow](./workflow.png)
+
+## 模型设计图
 ![model](./model_design.png)
+
+## 结果讨论图
+![results](./results.png)
+
