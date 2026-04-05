@@ -3,3 +3,5 @@
 ## 主要绘图代码位于my_functions.R中
 ## 模型训练代码位于model_prepare.R及model_test.R文件中
 ## 其余脚本为流程处理代码
+## final_flow.R为单细胞流程代码
+## merker.R为手动注释参考的细胞标记物
